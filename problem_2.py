@@ -32,7 +32,7 @@
 # a=int(input("Enter the value a: "))
 # b=int(input("Enter the value a: "))
 
-# average=(a+b)/2
+# average=((a+b)/2)
 
 # print("The Average of a and b is: ",average)
 
